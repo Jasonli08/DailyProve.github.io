@@ -2,7 +2,11 @@
 如有问题请联系我们：(dailyprove@163.com)
 ``
 # 今日证明
-![](https://github.com/Jasonli08/dailyprove.github.io/wiki)
+<details>
+  <summary>这里是下拉</summary>
+  
+  ![image]()
+</details>
 # 介绍
 ## 组织介绍
 - 每日一证是一个学习组织，旨在帮助大家通过分享自己的数学证明来培养自己数学中的逻辑能力。
