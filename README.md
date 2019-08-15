@@ -5,9 +5,7 @@
 <details>
   <summary>下拉查看</summary>
   
-  [image1](https://github.com/Jasonli08/dailyprove.github.io/blob/master/Proves1908/001.jpg)
-  [image2](https://github.com/Jasonli08/dailyprove.github.io/blob/master/Proves1908/002.jpg)
-  [image3](https://github.com/Jasonli08/dailyprove.github.io/blob/master/Proves1908/003.jpg)
+ * [点击查看](https://pan.baidu.com/s/1EkHIUpyTQe9eWaxtVj87Ig)
 </details>
 # 介绍
 ## 组织介绍
@@ -27,9 +25,11 @@
 <details>
   <summary>下拉查看</summary>
   
-  ![image](https://github.com/Jasonli08/dailyprove.github.io/blob/master/Proves1908/001.jpg)
-  ![image](https://github.com/Jasonli08/dailyprove.github.io/blob/master/Proves1908/002.jpg)
-  ![image](https://github.com/Jasonli08/dailyprove.github.io/blob/master/Proves1908/003.jpg)
+<details>
+  <summary>下拉查看</summary>
+  
+ * [点击查看](https://pan.baidu.com/s/1EkHIUpyTQe9eWaxtVj87Ig)
+</details>
 </details>
 
 # 批量查看
