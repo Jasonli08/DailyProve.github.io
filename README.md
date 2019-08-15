@@ -31,9 +31,10 @@
   ![image](https://github.com/Jasonli08/dailyprove.github.io/blob/master/Proves1908/002.jpg)
   ![image](https://github.com/Jasonli08/dailyprove.github.io/blob/master/Proves1908/003.jpg)
 </details>
+
 # 批量查看
-- [2019年8月](https://pan.baidu.com/s/1A7VrAwpMZ--Yms5bNng3rA)
-- [2019年9月](https://pan.baidu.com/s/1HiNTzZ5pI9TlVapYQfwHpQ)
+* [2019年8月](https://pan.baidu.com/s/1A7VrAwpMZ--Yms5bNng3rA)
+* [2019年9月](https://pan.baidu.com/s/1HiNTzZ5pI9TlVapYQfwHpQ)
 
 # 加入我们
 请编辑一条信息发送至(dailyprove@163.com)，包括您的**姓名**以及**电话号码**。我们会及时与您取得联系。
