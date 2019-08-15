@@ -3,7 +3,7 @@
 ``
 # 今日证明
 <details>
-  <summary>这里是下拉</summary>
+  <summary>下拉查看</summary>
   
   ![image](https://github.com/Jasonli08/dailyprove.github.io/blob/master/Proves1908/001.jpg)
   ![image](https://github.com/Jasonli08/dailyprove.github.io/blob/master/Proves1908/002.jpg)
@@ -25,7 +25,7 @@
 1. 等待期结束后我们将向**您的邮箱**发送**核查结果**。
 # 近期证明
 <details>
-  <summary>这里是下拉</summary>
+  <summary>下拉查看</summary>
   
   ![image](https://github.com/Jasonli08/dailyprove.github.io/blob/master/Proves1908/001.jpg)
   ![image](https://github.com/Jasonli08/dailyprove.github.io/blob/master/Proves1908/002.jpg)
