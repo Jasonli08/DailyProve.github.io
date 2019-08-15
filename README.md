@@ -5,7 +5,9 @@
 <details>
   <summary>这里是下拉</summary>
   
-  ![image]()
+  ![image](https://github.com/Jasonli08/dailyprove.github.io/blob/master/Proves1908/001.jpg)
+  ![image](https://github.com/Jasonli08/dailyprove.github.io/blob/master/Proves1908/002.jpg)
+  ![image](https://github.com/Jasonli08/dailyprove.github.io/blob/master/Proves1908/003.jpg)
 </details>
 # 介绍
 ## 组织介绍
@@ -22,7 +24,13 @@
 1. 发送的证明将经过管理团队的**核查**，一般时间不会太长，（除非证明很长或者中间省略了一些还比较重要的步骤）。
 1. 等待期结束后我们将向**您的邮箱**发送**核查结果**。
 # 近期证明
-![](https://github.com/Jasonli08/dailyprove.github.io/wiki)
+<details>
+  <summary>这里是下拉</summary>
+  
+  ![image](https://github.com/Jasonli08/dailyprove.github.io/blob/master/Proves1908/001.jpg)
+  ![image](https://github.com/Jasonli08/dailyprove.github.io/blob/master/Proves1908/002.jpg)
+  ![image](https://github.com/Jasonli08/dailyprove.github.io/blob/master/Proves1908/003.jpg)
+</details>
 # 批量查看
 - [2019年8月](https://pan.baidu.com/s/1A7VrAwpMZ--Yms5bNng3rA)
 - [2019年9月](https://pan.baidu.com/s/1HiNTzZ5pI9TlVapYQfwHpQ)
