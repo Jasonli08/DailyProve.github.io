@@ -3,8 +3,8 @@
 ``
 # 今日证明  
 
-* [点击查看](https://pan.baidu.com/s/1EkHIUpyTQe9eWaxtVj87Ig)
-
+* [20190815](https://pan.baidu.com/s/1EkHIUpyTQe9eWaxtVj87Ig)
+* [20190816](https://pan.baidu.com/s/1nQagy9zvlL6xTYLLnxxauw)
 # 介绍
 
 ## 组织介绍
@@ -28,7 +28,8 @@
 
 # 近期证明
 
-* [点击查看](https://pan.baidu.com/s/1EkHIUpyTQe9eWaxtVj87Ig)
+* [20190815](https://pan.baidu.com/s/1EkHIUpyTQe9eWaxtVj87Ig)
+* [20190816](https://pan.baidu.com/s/1nQagy9zvlL6xTYLLnxxauw)
 
 # 批量查看
 
