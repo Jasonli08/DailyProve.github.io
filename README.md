@@ -1,7 +1,7 @@
 ``
 如有问题请联系我们：(dailyprove@163.com)
 ``
-![图](https://github.com/Jasonli08/dailyprove.github.io/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20190817131052.jpg)
+![a](https://github.com/Jasonli08/dailyprove.github.io/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20190817131052.jpg)
 # 今日证明  
 
 * [20190817](https://pan.baidu.com/s/1LQ8nWpKdNmNT7bxrRzf3ww)
