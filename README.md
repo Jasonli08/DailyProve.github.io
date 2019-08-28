@@ -4,7 +4,8 @@
 ``
 # 今日证明  
 
-* [20190821](https://pan.baidu.com/s/1MYXSc8yr4UhpYDQehY1wYQ)
+![Image](https://github.com/Jasonli08/dailyprove.github.io/raw/master/Proves%201908/20190821_055540.jpg)  
+![Image](https://github.com/Jasonli08/dailyprove.github.io/raw/master/Proves%201908/20190821_055548.jpg)  
 
 # 介绍
 
