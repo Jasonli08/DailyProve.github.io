@@ -9,6 +9,7 @@
 ![Image](https://github.com/Jasonli08/dailyprove.github.io/raw/master/Proves%201908/20190821_055548.jpg)  
 [查看大图](https://github.com/Jasonli08/dailyprove.github.io/raw/master/Proves%201908/20190821_055548.jpg)  
 
+[![](https://github.com/Jasonli08/dailyprove.github.io/raw/master/Proves%201908/20190821_055540.jpg)](http://baidu.com)
 ``最近一次更新：[2019-08-21]``  
 # 介绍
 
@@ -49,5 +50,4 @@
 
 # 加入我们
 
-请编辑一条信息发送至(dailyprove@163.com)，包括您的**姓名**以及**电话号码**。我们会及时与您取得联系。  
-![Image](https://github.com/Jasonli08/dailyprove.github.io/raw/master/Images/th.jpg)
+请编辑一条信息发送至(dailyprove@163.com)，包括您的**姓名**以及**电话号码**。我们会及时与您取得联系。
