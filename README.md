@@ -1,35 +1,35 @@
 ![Image](https://github.com/Jasonli08/dailyprove.github.io/raw/master/Images/blog-banner-Prove-It-McCrann.jpg)  
 ``
-如有问题请联系我们：(dailyprove@163.com)
+Please contact us if there is any problem：(dailyprove@163.com)
 ``
-# 今日证明  
+# Today's Prove  
 
 [![](https://github.com/Jasonli08/dailyprove.github.io/raw/master/Proves%201908/20190821_055540.jpg)](https://github.com/Jasonli08/dailyprove.github.io/raw/master/Proves%201908/20190821_055540.jpg)
 [![](https://github.com/Jasonli08/dailyprove.github.io/raw/master/Proves%201908/20190821_055548.jpg)](https://github.com/Jasonli08/dailyprove.github.io/raw/master/Proves%201908/20190821_055548.jpg)  
-``最近一次更新：[2019-08-21]``  
+``Last update：[2019-08-21]``  
 
-# 介绍
+# Introduction
 
-## 组织介绍
+## The Organization
 
-- 每日一证是一个学习组织，旨在帮助大家通过分享自己的数学证明来培养自己数学中的逻辑能力。
+- We established "DailyProve" in the purpose of providing oppotunities for students who want to practice proves. By publishing their proves, they could have more logical reasoning and critical thinking abilities.
 
-## 网站介绍
+## The Website
 
-### 通知
+### Notice
 
-1. 从2019年8月15日开始，每天网站更新将在**今日证明**栏目发布最多一个人的证明，（形式和大小没有特别要求）。
-1. 近30条证明将收录在**近期证明**中。
-1. 如果您想回顾之前的证明，请点击网站下方的**批量查看**。
-1. 如果您想加入我们，请阅读网站的**加入我们**栏目。
+1. We will update at most 1 prove daily in the column of **Today's Prove**.
+1. **Recent Proves** will preserve the latest 30 proves.
+1. You can check the column of **Download** to access more proves.
+1. Please read the column of **Join Us**.
 
-### 发表您的证明
+### How to Publish Your Proves
 
-1. 首先将证明发到此**邮箱**(dailyprove@163.com)中，可填写个人信息（如姓名，年龄，爱好等）也可以选择匿名。
-1. 发送的证明将经过管理团队的**核查**，一般时间不会太长，（除非证明很长或者中间省略了一些还比较重要的步骤）。
-1. 等待期结束后我们将向**您的邮箱**发送**核查结果**。
+1. First, send your proves to the **email**(dailyprove@163.com).Please attach your basic information to the email, or just keep anonymous.
+1. Second, please wait for our **Check** for few days.
+1. Finally, we will send you a **message** to **Your email adress**.
 
-# 近期证明
+# Recent Proves
 
 * [20190821](https://pan.baidu.com/s/1MYXSc8yr4UhpYDQehY1wYQ)
 * [20190817](https://pan.baidu.com/s/1LQ8nWpKdNmNT7bxrRzf3ww)
@@ -40,12 +40,12 @@
 * [20190108](https://mp.weixin.qq.com/s/xnyGpBJ9egklSH5nKz3C2Q)
 * [20190104](https://mp.weixin.qq.com/s/nkQpnd_Cb6TJPqt89zl7nw)
 
-# 批量查看
+# Download
 
-* [2019年9月](https://pan.baidu.com/s/1HiNTzZ5pI9TlVapYQfwHpQ)
-* [2019年8月](https://pan.baidu.com/s/1A7VrAwpMZ--Yms5bNng3rA)
+* [09 2019](https://pan.baidu.com/s/1HiNTzZ5pI9TlVapYQfwHpQ)
+* [08 2019](https://pan.baidu.com/s/1A7VrAwpMZ--Yms5bNng3rA)
 
-# 加入我们
+# Join Us
 
-请编辑一条信息发送至(dailyprove@163.com)，包括您的**姓名**以及**电话号码**。我们会及时与您取得联系。  
+Please send a message to (dailyprove@163.com)，including your **Name**and**Phone Number**.We will be in contact with you as soom as possible.
 ![Image](https://github.com/Jasonli08/dailyprove.github.io/raw/master/Images/th.jpg)
