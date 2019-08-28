@@ -4,8 +4,12 @@
 ``
 # 今日证明  
 
-* [20190821](https://pan.baidu.com/s/1MYXSc8yr4UhpYDQehY1wYQ)
+![Image](https://github.com/Jasonli08/dailyprove.github.io/raw/master/Proves%201908/20190821_055540.jpg)
+[查看大图](https://github.com/Jasonli08/dailyprove.github.io/raw/master/Proves%201908/20190821_055540.jpg)  
+![Image](https://github.com/Jasonli08/dailyprove.github.io/raw/master/Proves%201908/20190821_055548.jpg)  
+[查看大图](https://github.com/Jasonli08/dailyprove.github.io/raw/master/Proves%201908/20190821_055548.jpg)  
 
+``最近一次更新：[2019-08-21]``  
 # 介绍
 
 ## 组织介绍
