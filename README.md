@@ -4,8 +4,11 @@
 ``
 # 今日证明  
 
-![Image](https://github.com/Jasonli08/dailyprove.github.io/raw/master/Proves%201908/20190821_055540.jpg)  
-![Image](https://github.com/Jasonli08/dailyprove.github.io/raw/master/Proves%201908/20190821_055548.jpg)  
+[Image](https://github.com/Jasonli08/dailyprove.github.io/raw/master/Proves%201908/20190821_055540.jpg)   
+[Image](https://github.com/Jasonli08/dailyprove.github.io/raw/master/Proves%201908/20190821_055548.jpg)  
+[查看图片](https://github.com/Jasonli08/dailyprove.github.io/raw/master/Proves%201908/20190821_055540.jpg)  
+[查看图片](https://github.com/Jasonli08/dailyprove.github.io/raw/master/Proves%201908/20190821_055548.jpg)  
+
 ``最近一次更新：[2019-08-21]``  
 # 介绍
 
