@@ -8,7 +8,7 @@ Please contact us if there is any problem：(dailyprove@163.com)
 
 # Today's Prove  
 
-[![](https://github.com/Jasonli08/DailyProve.github.io/tree/master/Proves%201909)](https://github.com/Jasonli08/DailyProve.github.io/tree/master/Proves%201909)
+[![](https://github.com/Jasonli08/DailyProve.github.io/raw/master/Proves%201909/294872639788421899.jpg)](https://github.com/Jasonli08/DailyProve.github.io/raw/master/Proves%201909/294872639788421899.jpg)
 ``Last update：[2019-09-02]``  
 
 # Introduction
